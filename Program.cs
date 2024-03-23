@@ -9,7 +9,7 @@ namespace SimpleWebScraper
     {
         static void Main(string[] args)
         {
-            string channelId = "Nabz_e_shear"; // Replace with the actual channel ID
+            string channelId = "Nabz_e_shear"; // Just for example (Must be a public channel)
             var scraper = new scraper.telegramScraper(channelId);
             var latestMessages = scraper.GetLatestMessages();
 
