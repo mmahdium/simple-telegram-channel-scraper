@@ -5,7 +5,7 @@ A simple telegram channel scraper able to scrape latest messages from a telegram
 
 ## Getting Started
 
-In `scraper` folder some examples are provided according to the latest changes
+In `Program.cs` file there are some examples are provided according to the latest changes
 
 ### Prerequisites
 
