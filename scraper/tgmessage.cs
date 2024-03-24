@@ -8,7 +8,7 @@ namespace scraper
 {
     public class tgmessage
     {
-        public int id { get; set; }
+        public UInt32 id { get; set; }
         public string text { get; set; }
     }
 }
